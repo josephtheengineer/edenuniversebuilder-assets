@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ mountain_grass_badlands_ambience.ogg-38b61217cb7ab21e044759f892abb425.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/ mountain_grass_badlands_ambience.ogg"
+dest_files=[ "res://.import/ mountain_grass_badlands_ambience.ogg-38b61217cb7ab21e044759f892abb425.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

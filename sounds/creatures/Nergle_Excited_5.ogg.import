@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Excited_5.ogg-737a2a79330bf55bee5f8480595796d2.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Nergle_Excited_5.ogg"
+dest_files=[ "res://.import/Nergle_Excited_5.ogg-737a2a79330bf55bee5f8480595796d2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

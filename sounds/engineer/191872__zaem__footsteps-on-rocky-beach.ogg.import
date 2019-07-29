@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/191872__zaem__footsteps-on-rocky-beach.ogg-10a0187b27dd4fe30ecac780a78f719f.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/191872__zaem__footsteps-on-rocky-beach.ogg"
+dest_files=[ "res://.import/191872__zaem__footsteps-on-rocky-beach.ogg-10a0187b27dd4fe30ecac780a78f719f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

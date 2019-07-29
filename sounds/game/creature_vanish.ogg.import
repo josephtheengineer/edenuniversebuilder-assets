@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_vanish.ogg-3670f88073b21f7c9c854eb4a20fc5ab.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/creature_vanish.ogg"
+dest_files=[ "res://.import/creature_vanish.ogg-3670f88073b21f7c9c854eb4a20fc5ab.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

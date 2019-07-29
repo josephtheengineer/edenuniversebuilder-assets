@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_destruction_05.ogg-011b6d601793bb06879ffd0424f53cc5.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/creature_destruction_05.ogg"
+dest_files=[ "res://.import/creature_destruction_05.ogg-011b6d601793bb06879ffd0424f53cc5.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

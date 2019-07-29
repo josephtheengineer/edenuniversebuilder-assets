@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_glass_3.ogg-f02e973e939f6093fed46b7cbf00f8d9.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_break_glass_3.ogg"
+dest_files=[ "res://.import/block_break_glass_3.ogg-f02e973e939f6093fed46b7cbf00f8d9.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

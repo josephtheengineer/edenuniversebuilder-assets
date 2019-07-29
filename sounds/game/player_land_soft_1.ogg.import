@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/player_land_soft_1.ogg-4314cb4e1a4e5489e1176bd4d7319708.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/player_land_soft_1.ogg"
+dest_files=[ "res://.import/player_land_soft_1.ogg-4314cb4e1a4e5489e1176bd4d7319708.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

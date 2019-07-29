@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_angry_hit_02.ogg-036086d645b7ecd594c2981e6d56deaa.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/creature_angry_hit_02.ogg"
+dest_files=[ "res://.import/creature_angry_hit_02.ogg-036086d645b7ecd594c2981e6d56deaa.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_OnFire_5.ogg-024180a9b17ab80774b4d5f16064896f.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Moof_OnFire_5.ogg"
+dest_files=[ "res://.import/Moof_OnFire_5.ogg-024180a9b17ab80774b4d5f16064896f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/joystick_begin.ogg-417c20c67630e52096eeaed604a8138b.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/joystick_begin.ogg"
+dest_files=[ "res://.import/joystick_begin.ogg-417c20c67630e52096eeaed604a8138b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

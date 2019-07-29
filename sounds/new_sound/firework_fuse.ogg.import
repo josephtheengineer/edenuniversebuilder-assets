@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/firework_fuse.ogg-c41561c88d2494992a3cecbee96f2454.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/firework_fuse.ogg"
+dest_files=[ "res://.import/firework_fuse.ogg-c41561c88d2494992a3cecbee96f2454.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_Relieved_5.ogg-2c19f5245fcd63cfc62f9350fba806d4.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Moof_Relieved_5.ogg"
+dest_files=[ "res://.import/Moof_Relieved_5.ogg-2c19f5245fcd63cfc62f9350fba806d4.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

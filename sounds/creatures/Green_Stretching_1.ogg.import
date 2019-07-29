@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Stretching_1.ogg-9d0601187ca2bf07e8541d075d1edc09.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Green_Stretching_1.ogg"
+dest_files=[ "res://.import/Green_Stretching_1.ogg-9d0601187ca2bf07e8541d075d1edc09.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

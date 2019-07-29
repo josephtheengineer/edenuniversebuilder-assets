@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/58962__suonho__scaryscape-voicestringcalling.ogg-3aa4df73698de2d0bec873aaa85b9ca7.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/58962__suonho__scaryscape-voicestringcalling.ogg"
+dest_files=[ "res://.import/58962__suonho__scaryscape-voicestringcalling.ogg-3aa4df73698de2d0bec873aaa85b9ca7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

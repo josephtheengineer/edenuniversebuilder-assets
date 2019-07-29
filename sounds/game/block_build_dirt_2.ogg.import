@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_build_dirt_2.ogg-46ce4e1081bf1c6b8d0ca0d92e124ae0.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_build_dirt_2.ogg"
+dest_files=[ "res://.import/block_build_dirt_2.ogg-46ce4e1081bf1c6b8d0ca0d92e124ae0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

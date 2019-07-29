@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_Excited_5.ogg-b6c7aaac2c52ba0c88a4c923d5a9c541.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Moof_Excited_5.ogg"
+dest_files=[ "res://.import/Moof_Excited_5.ogg-b6c7aaac2c52ba0c88a4c923d5a9c541.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

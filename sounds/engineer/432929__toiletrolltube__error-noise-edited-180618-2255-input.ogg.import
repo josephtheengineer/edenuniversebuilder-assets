@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-2c0592c5e6b23e8321f455d885cd42c7.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg"
+dest_files=[ "res://.import/432929__toiletrolltube__error-noise-edited-180618-2255-input.ogg-2c0592c5e6b23e8321f455d885cd42c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

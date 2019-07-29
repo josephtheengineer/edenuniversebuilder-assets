@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Angry_3.ogg-2aa478b43132bb35ba5e576a60f180c8.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Batty_Angry_3.ogg"
+dest_files=[ "res://.import/Batty_Angry_3.ogg-2aa478b43132bb35ba5e576a60f180c8.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

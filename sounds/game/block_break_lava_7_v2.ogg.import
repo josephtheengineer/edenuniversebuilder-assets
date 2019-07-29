@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_lava_7_v2.ogg-f91ed01c3bd483a220172d4c7add06e2.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_break_lava_7_v2.ogg"
+dest_files=[ "res://.import/block_break_lava_7_v2.ogg-f91ed01c3bd483a220172d4c7add06e2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

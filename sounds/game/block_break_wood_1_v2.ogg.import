@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_wood_1_v2.ogg-e035719bd8218e5f53c9d360be49685e.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_break_wood_1_v2.ogg"
+dest_files=[ "res://.import/block_break_wood_1_v2.ogg-e035719bd8218e5f53c9d360be49685e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tnt_paint_bomb_explode.ogg-10badd16f7ac14da44bbbde2522af072.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/tnt_paint_bomb_explode.ogg"
+dest_files=[ "res://.import/tnt_paint_bomb_explode.ogg-10badd16f7ac14da44bbbde2522af072.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Moof_Idle_4.ogg-bca808ec1c674cbf6c5de5b0c46818de.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Moof_Idle_4.ogg"
+dest_files=[ "res://.import/Moof_Idle_4.ogg-bca808ec1c674cbf6c5de5b0c46818de.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/grasslands_ambience.ogg-d9dbd9dfaeb0858b5df4ca42cba13410.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/grasslands_ambience.ogg"
+dest_files=[ "res://.import/grasslands_ambience.ogg-d9dbd9dfaeb0858b5df4ca42cba13410.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

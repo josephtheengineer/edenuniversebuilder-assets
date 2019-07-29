@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Walking_5.ogg-903ca0b1a5e7c1f1d1f5bef7fcf1ed08.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Stumpy_Walking_5.ogg"
+dest_files=[ "res://.import/Stumpy_Walking_5.ogg-903ca0b1a5e7c1f1d1f5bef7fcf1ed08.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

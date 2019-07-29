@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_aggro_03.ogg-1d1b6660efc4ec65c44ccf7328742912.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/creature_aggro_03.ogg"
+dest_files=[ "res://.import/creature_aggro_03.ogg-1d1b6660efc4ec65c44ccf7328742912.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

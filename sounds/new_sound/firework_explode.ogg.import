@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/firework_explode.ogg-508b6ab71e0719ae17a945c7033d8340.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/firework_explode.ogg"
+dest_files=[ "res://.import/firework_explode.ogg-508b6ab71e0719ae17a945c7033d8340.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

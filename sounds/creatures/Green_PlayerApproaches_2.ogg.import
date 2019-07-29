@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_PlayerApproaches_2.ogg-1e083fdbf684ed798b639b780291d37b.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Green_PlayerApproaches_2.ogg"
+dest_files=[ "res://.import/Green_PlayerApproaches_2.ogg-1e083fdbf684ed798b639b780291d37b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Hit_3.ogg-ebec572f9a9e1ac67aee2205173b83b6.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Stumpy_Hit_3.ogg"
+dest_files=[ "res://.import/Stumpy_Hit_3.ogg-ebec572f9a9e1ac67aee2205173b83b6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

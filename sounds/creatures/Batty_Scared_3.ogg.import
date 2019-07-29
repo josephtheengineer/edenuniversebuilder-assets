@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Scared_3.ogg-1f15596aeddb30da96263814ec81e446.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Batty_Scared_3.ogg"
+dest_files=[ "res://.import/Batty_Scared_3.ogg-1f15596aeddb30da96263814ec81e446.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

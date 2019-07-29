@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-7742f312c66b17aef5f7859d8427e24f.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/249985__werra__eerie-dark-drone-soundscape.ogg"
+dest_files=[ "res://.import/249985__werra__eerie-dark-drone-soundscape.ogg-7742f312c66b17aef5f7859d8427e24f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

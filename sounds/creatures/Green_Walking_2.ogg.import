@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Walking_2.ogg-c33997df82d3d0dbbf7d3c825f42025f.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Green_Walking_2.ogg"
+dest_files=[ "res://.import/Green_Walking_2.ogg-c33997df82d3d0dbbf7d3c825f42025f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

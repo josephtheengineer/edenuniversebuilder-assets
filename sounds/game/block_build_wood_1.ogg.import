@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_build_wood_1.ogg-3fe6eb570a4bc8061545e8b81ac90013.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_build_wood_1.ogg"
+dest_files=[ "res://.import/block_build_wood_1.ogg-3fe6eb570a4bc8061545e8b81ac90013.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

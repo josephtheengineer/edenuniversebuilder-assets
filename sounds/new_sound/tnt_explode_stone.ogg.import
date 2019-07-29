@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tnt_explode_stone.ogg-d8b0d6b6294d9f12db52f06e1362bd12.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/tnt_explode_stone.ogg"
+dest_files=[ "res://.import/tnt_explode_stone.ogg-d8b0d6b6294d9f12db52f06e1362bd12.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/244961__patricklieberkind__dark-ambience.ogg-ea0bcf286aeaf046bd9ee0bebd0b134a.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/244961__patricklieberkind__dark-ambience.ogg"
+dest_files=[ "res://.import/244961__patricklieberkind__dark-ambience.ogg-ea0bcf286aeaf046bd9ee0bebd0b134a.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

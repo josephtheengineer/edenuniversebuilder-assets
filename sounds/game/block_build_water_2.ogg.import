@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_build_water_2.ogg-e62dedef7364233be296307f3d65d652.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_build_water_2.ogg"
+dest_files=[ "res://.import/block_build_water_2.ogg-e62dedef7364233be296307f3d65d652.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/tnt_explode_mix_glass_crystal.ogg-0676d7bbcf472b8294c2403eaf0d7a8f.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/tnt_explode_mix_glass_crystal.ogg"
+dest_files=[ "res://.import/tnt_explode_mix_glass_crystal.ogg-0676d7bbcf472b8294c2403eaf0d7a8f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

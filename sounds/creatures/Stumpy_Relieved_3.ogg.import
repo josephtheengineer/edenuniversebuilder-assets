@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Relieved_3.ogg-0041b4cc1cb63e005e6cf6d445391e4e.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Stumpy_Relieved_3.ogg"
+dest_files=[ "res://.import/Stumpy_Relieved_3.ogg-0041b4cc1cb63e005e6cf6d445391e4e.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

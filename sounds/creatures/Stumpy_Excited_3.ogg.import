@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Excited_3.ogg-5331a50cc99a365b92dd39ccea0b5110.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Stumpy_Excited_3.ogg"
+dest_files=[ "res://.import/Stumpy_Excited_3.ogg-5331a50cc99a365b92dd39ccea0b5110.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

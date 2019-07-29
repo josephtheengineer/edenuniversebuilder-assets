@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Excited_1.ogg-cb0a5d22519f9e7a4c88d93c941507ad.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Batty_Excited_1.ogg"
+dest_files=[ "res://.import/Batty_Excited_1.ogg-cb0a5d22519f9e7a4c88d93c941507ad.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Stumpy_Angry_1.ogg-fc847c68a2a9ede28cedcb73d3a4d180.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Stumpy_Angry_1.ogg"
+dest_files=[ "res://.import/Stumpy_Angry_1.ogg-fc847c68a2a9ede28cedcb73d3a4d180.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

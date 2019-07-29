@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/night_time_ambience.ogg-78bdd3373524e2550b4bd3f33d518ee2.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/night_time_ambience.ogg"
+dest_files=[ "res://.import/night_time_ambience.ogg-78bdd3373524e2550b4bd3f33d518ee2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

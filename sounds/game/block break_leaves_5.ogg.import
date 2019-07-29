@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block break_leaves_5.ogg-8aa03ad36ac5a7aaec875e34486a434c.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block break_leaves_5.ogg"
+dest_files=[ "res://.import/block break_leaves_5.ogg-8aa03ad36ac5a7aaec875e34486a434c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

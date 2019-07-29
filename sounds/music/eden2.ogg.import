@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/eden2.ogg-3b735581534ed301e98d7690d37df717.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/music/eden2.ogg"
+dest_files=[ "res://.import/eden2.ogg-3b735581534ed301e98d7690d37df717.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

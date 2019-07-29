@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/paint_block_3.ogg-7413e402ddca24c217c5db481b741a64.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/paint_block_3.ogg"
+dest_files=[ "res://.import/paint_block_3.ogg-7413e402ddca24c217c5db481b741a64.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

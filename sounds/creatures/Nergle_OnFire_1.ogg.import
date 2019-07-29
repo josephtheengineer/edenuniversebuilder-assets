@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_OnFire_1.ogg-af9e7ef2b256a6ba10f29b7fb71d10fc.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Nergle_OnFire_1.ogg"
+dest_files=[ "res://.import/Nergle_OnFire_1.ogg-af9e7ef2b256a6ba10f29b7fb71d10fc.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

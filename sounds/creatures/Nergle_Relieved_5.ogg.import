@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Relieved_5.ogg-7d66423086ff236de59eaf15dd9bc2f0.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Nergle_Relieved_5.ogg"
+dest_files=[ "res://.import/Nergle_Relieved_5.ogg-7d66423086ff236de59eaf15dd9bc2f0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

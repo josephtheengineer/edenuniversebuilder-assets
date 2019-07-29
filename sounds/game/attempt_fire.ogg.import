@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/attempt_fire.ogg-2f971cc8c6caa6399751ae6c5698d01d.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/attempt_fire.ogg"
+dest_files=[ "res://.import/attempt_fire.ogg-2f971cc8c6caa6399751ae6c5698d01d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

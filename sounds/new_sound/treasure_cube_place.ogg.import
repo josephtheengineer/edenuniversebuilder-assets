@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/treasure_cube_place.ogg-82f3e30557277dd08af076dcb1ea7650.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/treasure_cube_place.ogg"
+dest_files=[ "res://.import/treasure_cube_place.ogg-82f3e30557277dd08af076dcb1ea7650.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

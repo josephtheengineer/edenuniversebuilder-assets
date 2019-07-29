@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/wood_ladder_1_v2.ogg-49895e9172476f49fe8d4307fba1050c.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/wood_ladder_1_v2.ogg"
+dest_files=[ "res://.import/wood_ladder_1_v2.ogg-49895e9172476f49fe8d4307fba1050c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

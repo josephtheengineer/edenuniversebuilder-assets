@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/warp_home_activated.ogg-aac33e8a220236590a103e5807cee700.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/warp_home_activated.ogg"
+dest_files=[ "res://.import/warp_home_activated.ogg-aac33e8a220236590a103e5807cee700.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

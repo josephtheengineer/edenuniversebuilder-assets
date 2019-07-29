@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/menu_transition_1.ogg-66e8a3ae963956eb71b42abd6d13d280.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/menu_transition_1.ogg"
+dest_files=[ "res://.import/menu_transition_1.ogg-66e8a3ae963956eb71b42abd6d13d280.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

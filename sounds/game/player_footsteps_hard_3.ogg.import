@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/player_footsteps_hard_3.ogg-a526198c596a716034448d25cf93a2db.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/player_footsteps_hard_3.ogg"
+dest_files=[ "res://.import/player_footsteps_hard_3.ogg-a526198c596a716034448d25cf93a2db.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

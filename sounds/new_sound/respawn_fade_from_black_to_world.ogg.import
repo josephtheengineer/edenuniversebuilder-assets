@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/respawn_fade_from_black_to_world.ogg-9d7e7ef7a262d815f0a76067445946a2.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/respawn_fade_from_black_to_world.ogg"
+dest_files=[ "res://.import/respawn_fade_from_black_to_world.ogg-9d7e7ef7a262d815f0a76067445946a2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

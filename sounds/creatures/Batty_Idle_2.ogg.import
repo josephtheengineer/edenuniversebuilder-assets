@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Idle_2.ogg-96ae68f918f7be67eeb99d7905a49b2d.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Batty_Idle_2.ogg"
+dest_files=[ "res://.import/Batty_Idle_2.ogg-96ae68f918f7be67eeb99d7905a49b2d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

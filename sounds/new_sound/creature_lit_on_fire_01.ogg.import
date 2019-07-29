@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_lit_on_fire_01.ogg-57e4f360b875c568e027dfb716296651.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/creature_lit_on_fire_01.ogg"
+dest_files=[ "res://.import/creature_lit_on_fire_01.ogg-57e4f360b875c568e027dfb716296651.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

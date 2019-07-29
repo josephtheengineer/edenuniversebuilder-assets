@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/vine_ladder2.ogg-67f50171cd641883c951ad0c482f96a1.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/vine_ladder2.ogg"
+dest_files=[ "res://.import/vine_ladder2.ogg-67f50171cd641883c951ad0c482f96a1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

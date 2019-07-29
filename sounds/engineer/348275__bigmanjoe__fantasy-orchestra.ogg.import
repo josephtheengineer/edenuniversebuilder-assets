@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-a4ed0c7f2912cd75e1a784cacd58d86d.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/engineer/348275__bigmanjoe__fantasy-orchestra.ogg"
+dest_files=[ "res://.import/348275__bigmanjoe__fantasy-orchestra.ogg-a4ed0c7f2912cd75e1a784cacd58d86d.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

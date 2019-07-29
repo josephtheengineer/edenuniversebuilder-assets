@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/block_break_water_6_v2.ogg-7a5a2ef2d43dd24c5a4dc43568d70535.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/block_break_water_6_v2.ogg"
+dest_files=[ "res://.import/block_break_water_6_v2.ogg-7a5a2ef2d43dd24c5a4dc43568d70535.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

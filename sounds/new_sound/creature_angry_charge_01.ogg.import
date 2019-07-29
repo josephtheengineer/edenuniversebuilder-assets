@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/creature_angry_charge_01.ogg-9eeb1d0a255574388a8bb1fbedefd909.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/creature_angry_charge_01.ogg"
+dest_files=[ "res://.import/creature_angry_charge_01.ogg-9eeb1d0a255574388a8bb1fbedefd909.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

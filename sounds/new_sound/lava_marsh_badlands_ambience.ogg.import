@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/lava_marsh_badlands_ambience.ogg-e1ac8155a9e8b814c43895d2d302bff6.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/lava_marsh_badlands_ambience.ogg"
+dest_files=[ "res://.import/lava_marsh_badlands_ambience.ogg-e1ac8155a9e8b814c43895d2d302bff6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

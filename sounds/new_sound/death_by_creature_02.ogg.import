@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/death_by_creature_02.ogg-da0ccf3c744aa01354119917dc2956d2.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/death_by_creature_02.ogg"
+dest_files=[ "res://.import/death_by_creature_02.ogg-da0ccf3c744aa01354119917dc2956d2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

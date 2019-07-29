@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Stretch_1.ogg-be2498c3330d4b58e54c014f16db4620.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Nergle_Stretch_1.ogg"
+dest_files=[ "res://.import/Nergle_Stretch_1.ogg-be2498c3330d4b58e54c014f16db4620.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

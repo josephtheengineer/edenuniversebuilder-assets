@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ice_slide_turn_2.ogg-7578aca2884c71d3ee4ff80ba59ea825.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/game/ice_slide_turn_2.ogg"
+dest_files=[ "res://.import/ice_slide_turn_2.ogg-7578aca2884c71d3ee4ff80ba59ea825.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

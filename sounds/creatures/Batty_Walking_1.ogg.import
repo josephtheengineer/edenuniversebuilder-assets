@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Batty_Walking_1.ogg-1aa6580d67af4004d63b348f81c5b186.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Batty_Walking_1.ogg"
+dest_files=[ "res://.import/Batty_Walking_1.ogg-1aa6580d67af4004d63b348f81c5b186.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Green_Hit_4.ogg-2eb3b7669de0b12d2dc4329b9b7f5e41.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Green_Hit_4.ogg"
+dest_files=[ "res://.import/Green_Hit_4.ogg-2eb3b7669de0b12d2dc4329b9b7f5e41.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

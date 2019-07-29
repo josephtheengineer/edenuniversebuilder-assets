@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/ambience_nearby_treasure_cube.ogg-26835dac1bfb3ef28e61d94ff5366d57.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/ambience_nearby_treasure_cube.ogg"
+dest_files=[ "res://.import/ambience_nearby_treasure_cube.ogg-26835dac1bfb3ef28e61d94ff5366d57.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

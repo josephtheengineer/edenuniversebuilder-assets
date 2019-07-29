@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/metal_block_destroy.ogg-a6cdaca0505a191c8527a349aa6f9228.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/metal_block_destroy.ogg"
+dest_files=[ "res://.import/metal_block_destroy.ogg-a6cdaca0505a191c8527a349aa6f9228.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

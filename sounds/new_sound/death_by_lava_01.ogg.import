@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/death_by_lava_01.ogg-75a7fa99ce18f74bf19b9d0982d4c075.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/new_sound/death_by_lava_01.ogg"
+dest_files=[ "res://.import/death_by_lava_01.ogg-75a7fa99ce18f74bf19b9d0982d4c075.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

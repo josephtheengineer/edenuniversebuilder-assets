@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Nergle_Idle_3.ogg-338d9112fe75c5e7e615ee8c45e74515.oggstr"
+
+[deps]
+
+source_file="res://media/sounds/creatures/Nergle_Idle_3.ogg"
+dest_files=[ "res://.import/Nergle_Idle_3.ogg-338d9112fe75c5e7e615ee8c45e74515.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
